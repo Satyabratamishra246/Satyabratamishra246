@@ -18,9 +18,12 @@ I am a Data Analyst and Data Engineer with a background in Decision Science. I l
 ![Satyabrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyabratamishra246&show_icons=true&theme=dark)
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/satyabrata-mishra246)
-- [Twitter](https://twitter.com/yourusername)
+
+ <a href="https://www.linkedin.com/in/satyabrata-mishra246/" aria-label="LinkedIn">
+  <img src="https://github.com/Satyabratamishra246/github.io/blob/205f904846099c1c36a9b978d92e1d50cecc5e8c/images/linkedin-icon.png" alt="LinkedIn Icon" width="30" heigth = "30"> LinkedIn
+
 
 ## 🔗 Links
-- [Portfolio](your-portfolio-link)
-- [Blog](your-blog-link)
+
+- [Portfolio](https://satyabratamishra246.github.io/github.io/)
+
