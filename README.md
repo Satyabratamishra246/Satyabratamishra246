@@ -1,4 +1,4 @@
-# Hi there, I'm Satyabrata Mishra! 👋
+![logo](https://github.com/Satyabratamishra246/Satyabratamishra246/blob/fcdc54d2f7c8c0c31f6cb625f1003b613b3976c9/logos%20%26%20Icons/new_logo.png)
 
 ## 🚀 About Me
 I am a Data Analyst and Data Engineer with a background in Decision Science. I love solving complex problems and making data-driven decisions.
